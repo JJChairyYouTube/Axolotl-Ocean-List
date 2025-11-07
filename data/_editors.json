@@ -7,21 +7,21 @@
     {
         "role": "admin",
         "name": "Miphax",
-        "link": "https://www.youtube.com/@FluxiteGMD"
+        "link": "https://www.youtube.com/@miphax"
     },
     {
         "role": "helper",
-        "name": "",
+        "name": "Nobody!",
         "link": "https://www.youtube.com/@ImPotatoGMD0"
     },
     {
         "role": "trial",
-        "name": "",
+        "name": "Nobody!",
         "link": "https://www.youtube.com/@PulseGMD"
     },
     {
         "role": "dev",
-        "name": "",
+        "name": "Nobody!",
         "link": "https://www.youtube.com/@PulseGMD"
     }
 ]
