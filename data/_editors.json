@@ -5,23 +5,8 @@
         "link": "https://www.youtube.com/@PulseGMD"
     },
     {
-        "role": "admin",
+        "role": "owner",
         "name": "Miphax",
         "link": "https://www.youtube.com/@miphax"
-    },
-    {
-        "role": "helper",
-        "name": "Nobody!",
-        "link": "https://www.youtube.com/@ImPotatoGMD0"
-    },
-    {
-        "role": "trial",
-        "name": "Nobody!",
-        "link": "https://www.youtube.com/@PulseGMD"
-    },
-    {
-        "role": "dev",
-        "name": "Nobody!",
-        "link": "https://www.youtube.com/@PulseGMD"
     }
 ]
