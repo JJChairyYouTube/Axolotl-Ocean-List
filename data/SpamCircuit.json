@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+              {
+            "user": "Amirska",
+            "link": "https://medal.tv/nl/games/geometry-dash/clips/lxBKeGRxtLEMK6Zt8?invite=cr-MSxMb3gsMzk5NDA3NjI2",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
