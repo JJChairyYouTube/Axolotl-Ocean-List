@@ -1,1 +1,17 @@
-
+{
+    "id": 129856200,
+    "name": "Challeng cool",
+    "author": "moen22",
+    "creators": ["moen22"],
+    "verifier": "moen22",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [{
+            "user": "FJKR",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/lMkAgFumB2_KQ8u6A?invite=cr-MSxnaDEsNDM2Nzg5MDc5&v=23 ",
+            "percent": 100,
+            "hz": 240
+ }
+    ]
+}
