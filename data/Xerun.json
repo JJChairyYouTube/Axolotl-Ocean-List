@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+             {
+            "user": "Fjkr",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/mjCqSQtjaVwNufOrA?invite=cr-MSx3TFcsNDM2Nzg5MDc5&v=30",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
